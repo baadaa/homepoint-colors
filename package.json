@@ -11,6 +11,6 @@
   "publishConfig": {
     "access": "public"
   },
-  "author": "bumhan.yu@gmail.com",
+  "author": "Bumhan Yu <bumhan.yu@gmail.com> (https://bald.design/)",
   "license": "MIT"
 }
